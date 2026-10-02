@@ -1,4 +1,5 @@
-# WINT Game Factory v0.1
+#
+Game Factory v0.1
 
 Phaser 3 + Vite starter for browser-first hypercasual games.
 
